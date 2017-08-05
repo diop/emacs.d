@@ -1,0 +1,59 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/fodediop/guild/Phase-2-benchmarks/" . "Movie_Search_CLI/")
+ ("/Users/fodediop/guild/" . "Movie_Search_API/")
+ ("/Users/fodediop/crypto/smart-contract-security/" . "contracts/")
+ ("/Users/fodediop/crypto/" . "smart-contract-security/")
+ ("/Users/fodediop/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/fodediop/guild/Movie_Search_API/"
+ "/Users/fodediop/.emacs.d/"
+ "/Users/fodediop/.emacs.d/customizations/"
+ "/Users/fodediop/crypto/smart-contract-security/contracts/"
+ "/Users/fodediop/guild/Phase-2-benchmarks/Movie_Search_CLI/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+ "init.el"
+ "ui.el"
+ "Congress.sol"
+ "alt-movie-search.js"
+ "MetaCoin.sol"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/fodediop/guild/Movie_Search_API/" (22916 56692 0 0) "README.md" "package.json" "package-lock.json" "node_modules/" "movie-search-promises.js" "app.js" "api/" ".git/" "../" "./")
+
+ ("/Users/fodediop/guild/" (22915 39524 0 0) "yenza/" "xhrapp-panlex-api/" "workspace/" "underscore/" "todolistSQL/" "todo-with-callbacks/" "Terminal-Basics-Advanced/" "supascrapa/" "simple-node-api/" "playground/" "phase-two-challenge/" "phase-one/" "Phase-2-benchmarks/" "node-babeljs-setup/" "Movie_Search_API/" "movie-search-cli/" "html-css-bootcamp/" "archive-phase-2-challenge/" ".DS_Store" "../" "./")
+
+ ("/Users/fodediop/" (22915 28142 0 0) "xamxam/" "scripts/" "README.md" "Public/" "Pictures/" "package.json" "Music/" "Movies/" "LICENSE" "Library/" "lerna.json" "guild/" "GitBook/" "foo/" "flyers-nodejs/" "Downloads/" "Documents/" "Desktop/" "dabook/" "crypto/" "bin" "bar" "Applications/" "AndroidStudioProjects/" ".zshrc" ".zlogin" ".yarnrc" ".wget-hsts" ".Trash/" ".subversion/" ".ssh/" ".rvm/" ".rbenv/" ".psql_history" ".profile.backup" ".profile" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".node-gyp/" ".mkshrc" ".m2/" ".lein/" ".gsutil/" ".gradle/" ".gitignore" ".gitconfig" ".git-credential-cache/" ".gem/" ".emacs.d/" ".electron-gyp/" ".electron/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".bundle/" ".boto" ".bashrc" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".android/" "../" "./")
+
+ ("/Users/fodediop/.emacs.d/" (22913 8466 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "init.el" "ido.last~" "ido.last" "elpa/" "el-get/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".gitignore" ".git/" "#init.el#" "../" "./")
+
+ ("/Users/fodediop/.emacs.d/customizations/" (22855 23824 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/fodediop/crypto/decypher/" (22902 8616 0 0) "package.json" "package-lock.json" "node_modules/" "../" "./")
+
+ ("/Users/fodediop/guild/Phase-2-benchmarks/Movie_Search_CLI/" (22912 59598 0 0) "movie-search.js" "movie-search-with-promises.js" "alt-movie-search.js" ".#alt-movie-search.js" "#alt-movie-search.js#" "../" "./")
+
+ ("/Users/fodediop/guild/Phase-2-benchmarks/" (22911 36226 0 0) "Tests/" "tasks.json" "tasks.js" "README.md" "package.json" "Movie_Search_CLI/" "commands/" ".git/" "../" "./")
+
+ ("/Users/fodediop/crypto/smart-contract-security/contracts/" (22912 12158 0 0) "Token.sol" "Migrations.sol" "MetaCoin.sol" "ConvertLib.sol" "Congress.sol" "../" "./")
+
+ ("/Users/fodediop/crypto/smart-contract-security/" (22912 8828 0 0) "truffle.js" "test/" "README.md" "package.json" "package-lock.json" "node_modules/" "migrations/" "contracts/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/fodediop/crypto/" (22912 4586 0 0) "zero-exchange/" "truffle3-frontend-example/" "truffle.js" "truffle-react/" "truffle-console/" "test/" "smart-contract-security/" "pet-shop/" "package-lock.json" "open_stock_exchange/" "migrations/" "grt-dao/" "ganache/" "decypher/" "dao/" "curriculum.md" "contracts/" "cloth/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22853 32502 0 0) "Shared/" "Guest/" "fodediop/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

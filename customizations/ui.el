@@ -24,12 +24,13 @@
 ;; for a great explanation of emacs color themes.
 ;; https://www.gnu.org/software/emacs/manual/html_node/emacs/Custom-Themes.html
 ;; for a more technical explanation.
-(add-to-list 'custom-theme-load-path "/Users/trinity/.startup/.emacs.d/themes")
-(add-to-list 'load-path "/Users/trinity/.startup/.emacs.d/themes")
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+(add-to-list 'load-path "~/.emacs.d/themes")
 (load-theme 'atom-one-dark t)
 
-;; increase font size for better readability
-(set-face-attribute 'default nil :height 140)
+;; Increase font size for better readability
+;; Font customization
+(set-frame-font "Monaco 19" nil t)
 
 
 ;; Uncomment the lines below by removing semicolons and play with the
