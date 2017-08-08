@@ -32,7 +32,6 @@
 ;; Font customization
 (set-frame-font "Monaco 19" nil t)
 
-
 ;; Uncomment the lines below by removing semicolons and play with the
 ;; values in order to set the width (in characters wide) and height
 ;; (in lines high) Emacs will have whenever you start it
