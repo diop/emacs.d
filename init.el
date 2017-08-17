@@ -30,6 +30,10 @@
 (add-to-list 'el-get-recipe-path "~/.emacs.d/el-get-user/recipes")
 (el-get 'sync)
 
+;; Flycheck
+(use-package flycheck
+  :ensure t
+  :init (global-flycheck-mode))
 
 ;; Load and activate emacs packages. Do this first so that the
 ;; packages are loaded before you start trying to modify them.
