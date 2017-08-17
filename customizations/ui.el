@@ -66,7 +66,7 @@
 ;; full path in title bar
 (setq-default frame-title-format "%b (%f)")
 
-;; don't pop up font menu
+;; d3on't pop up font menu
 (global-set-key (kbd "s-t") '(lambda () (interactive)))
 
 ;; no bell

@@ -124,6 +124,10 @@
 ;;;;
 ;; Customization
 ;;;;
+
+;; Solc Path
+(setq solidity-solc-path "~//usr/local/bin/solc")
+
 ;;Set default fonts
 (set-frame-font "Monaco 18" nil t)
 
